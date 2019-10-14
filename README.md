@@ -1,9 +1,9 @@
 # Deploying-an-online-text-prediction-algorithm
 A web based text predction algorithm using Shiny
 
-Contained is this repository is R code to deploy a Shiny app that allows the user to enter a string and the app will predict the next likliest word in the string.
+Contained in this repository is R code to deploy a Shiny app that allows a user to enter a string and the app will predict the next likliest word in the string.
 The Shiny app is deployed on the Shiny Server provided by R Studios. This project demonstates understanding of natural language processing,
-smoothing associated with natural language processing (such as Katz back-off models) and implementing online data products, tthat utilize
+smoothing associated with natural language processing (such as Katz back-off models) and implementing online data products, that utilize
 user interfaces and servers for computation. It also demonstartes proficiency in natural language processing packages in R such as tm, ngram and NLP.
 
 The app can be used at the following link: [https://rojay16.shinyapps.io/text_pred3/](https://rojay16.shinyapps.io/text_pred3/)
